@@ -1,3 +1,7 @@
+// A height-balanced binary tree is defined as a binary tree in which the height of the left and the right subtree 
+// of any node differ by not more than 1. AVL tree, red-black tree are examples of height-balanced trees.
+
+
 class TreeNode {
   constructor(val) {
     this.val = val;
